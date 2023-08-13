@@ -1,1 +1,0 @@
-import{N as e}from"./Result-b2046ee2.js";import{d as t,M as o,U as s,Q as n}from"./index-a05de48e.js";import"./replaceable-66c7b734.js";const m=t({__name:"UnfinishedPage",setup(r){return(a,i)=>(o(),s(n(e),{status:"info",title:"开发中~",description:"这么咕咕咕真是抱歉！"}))}});export{m as default};
